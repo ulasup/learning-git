@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ulasup/learning-git/issues"
   },
-  "homepage": "https://github.com/ulasup/learning-git#readme"
+  "homepage": "https://github.com/ulasup/learning-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^4.0.2"
+  }
 }
